@@ -145,17 +145,4 @@ of cities visited.
 
 See [05-city-path-finder/README.md](05-city-path-finder/README.md) for details.
 
-## Development Order
 
-Implemented in the order recommended by the PRD:
-
-1. Graph Representation (shared concept)
-2. BFS
-3. DFS
-4. Dijkstra
-5. Fibonacci - Memoization
-6. Fibonacci - Tabulation
-7. 0/1 Knapsack
-8. City Path Finder (integrates Dijkstra into a practical app)
-9. Testing
-10. Documentation
